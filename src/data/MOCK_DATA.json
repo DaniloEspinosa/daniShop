@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "titulo": "HTC",
+    "descripcion": "Nokia",
+    "categoria": "Samsung",
+    "precio": 6.53,
+    "imagen": "http://dummyimage.com/250x100.png/cc0000/ffffff",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "titulo": "Apple",
+    "descripcion": "Apple",
+    "categoria": "Amazon",
+    "precio": 91.07,
+    "imagen": "http://dummyimage.com/250x100.png/dddddd/000000",
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "titulo": "Lava",
+    "descripcion": "alcatel",
+    "categoria": "Samsung",
+    "precio": 50.69,
+    "imagen": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "titulo": "Huawei",
+    "descripcion": "Motorola",
+    "categoria": "Nokia",
+    "precio": 84.47,
+    "imagen": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "titulo": "Toshiba",
+    "descripcion": "Sony",
+    "categoria": "Celkon",
+    "precio": 9.83,
+    "imagen": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "titulo": "Huawei",
+    "descripcion": "Motorola",
+    "categoria": "Samsung",
+    "precio": 41.15,
+    "imagen": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "stock": 10
+  },
+  {
+    "id": 7,
+    "titulo": "Siemens",
+    "descripcion": "Micromax",
+    "categoria": "Nokia",
+    "precio": 70.68,
+    "imagen": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "stock": 10
+  },
+  {
+    "id": 8,
+    "titulo": "Huawei",
+    "descripcion": "Lava",
+    "categoria": "Samsung",
+    "precio": 17.71,
+    "imagen": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "stock": 10
+  },
+  {
+    "id": 9,
+    "titulo": "Celkon",
+    "descripcion": "Samsung",
+    "categoria": "Sony",
+    "precio": 1.12,
+    "imagen": "http://dummyimage.com/250x100.png/dddddd/000000",
+    "stock": 10
+  },
+  {
+    "id": 10,
+    "titulo": "alcatel",
+    "descripcion": "Lenovo",
+    "categoria": "Samsung",
+    "precio": 32.91,
+    "imagen": "http://dummyimage.com/250x100.png/dddddd/000000",
+    "stock": 10
+  },
+  {
+    "id": 11,
+    "titulo": "Nokia",
+    "descripcion": "Amoi",
+    "categoria": "LG",
+    "precio": 24.17,
+    "imagen": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "stock": 10
+  },
+  {
+    "id": 12,
+    "titulo": "Micromax",
+    "descripcion": "Samsung",
+    "categoria": "Samsung",
+    "precio": 42.3,
+    "imagen": "http://dummyimage.com/250x100.png/cc0000/ffffff",
+    "stock": 10
+  },
+  {
+    "id": 13,
+    "titulo": "Sony",
+    "descripcion": "Micromax",
+    "categoria": "alcatel",
+    "precio": 1.75,
+    "imagen": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "stock": 10
+  },
+  {
+    "id": 14,
+    "titulo": "Posh",
+    "descripcion": "Apple",
+    "categoria": "Samsung",
+    "precio": 81.67,
+    "imagen": "http://dummyimage.com/250x100.png/dddddd/000000",
+    "stock": 10
+  },
+  {
+    "id": 15,
+    "titulo": "Acer",
+    "descripcion": "YU",
+    "categoria": "Nokia",
+    "precio": 4.0,
+    "imagen": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "stock": 10
+  },
+  {
+    "id": 16,
+    "titulo": "OnePlus",
+    "descripcion": "BLU",
+    "categoria": "BLU",
+    "precio": 54.12,
+    "imagen": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "stock": 10
+  },
+  {
+    "id": 17,
+    "titulo": "Google",
+    "descripcion": "Philips",
+    "categoria": "Samsung",
+    "precio": 50.37,
+    "imagen": "http://dummyimage.com/250x100.png/dddddd/000000",
+    "stock": 10
+  },
+  {
+    "id": 18,
+    "titulo": "Nokia",
+    "descripcion": "QMobile",
+    "categoria": "Apple",
+    "precio": 29.09,
+    "imagen": "http://dummyimage.com/250x100.png/dddddd/000000",
+    "stock": 10
+  },
+  {
+    "id": 19,
+    "titulo": "BLU",
+    "descripcion": "Spice",
+    "categoria": "Samsung",
+    "precio": 35.41,
+    "imagen": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "stock": 10
+  },
+  {
+    "id": 20,
+    "titulo": "BlackBerry",
+    "descripcion": "NEC",
+    "categoria": "alcatel",
+    "precio": 29.12,
+    "imagen": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "stock": 10
+  },
+  {
+    "id": 21,
+    "titulo": "Xiaomi",
+    "descripcion": "Micromax",
+    "categoria": "alcatel",
+    "precio": 15.72,
+    "imagen": "http://dummyimage.com/250x100.png/dddddd/000000",
+    "stock": 10
+  },
+  {
+    "id": 22,
+    "titulo": "Panasonic",
+    "descripcion": "Honor",
+    "categoria": "Lenovo",
+    "precio": 85.8,
+    "imagen": "http://dummyimage.com/250x100.png/dddddd/000000",
+    "stock": 10
+  },
+  {
+    "id": 23,
+    "titulo": "YU",
+    "descripcion": "BLU",
+    "categoria": "Sendo",
+    "precio": 33.16,
+    "imagen": "http://dummyimage.com/250x100.png/dddddd/000000",
+    "stock": 10
+  },
+  {
+    "id": 24,
+    "titulo": "Motorola",
+    "descripcion": "vivo",
+    "categoria": "Huawei",
+    "precio": 83.97,
+    "imagen": "http://dummyimage.com/250x100.png/dddddd/000000",
+    "stock": 10
+  },
+  {
+    "id": 25,
+    "titulo": "Apple",
+    "descripcion": "Samsung",
+    "categoria": "Nokia",
+    "precio": 1.01,
+    "imagen": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "stock": 10
+  },
+  {
+    "id": 26,
+    "titulo": "Asus",
+    "descripcion": "Samsung",
+    "categoria": "Samsung",
+    "precio": 35.76,
+    "imagen": "http://dummyimage.com/250x100.png/dddddd/000000",
+    "stock": 10
+  },
+  {
+    "id": 27,
+    "titulo": "Celkon",
+    "descripcion": "Asus",
+    "categoria": "Gionee",
+    "precio": 18.37,
+    "imagen": "http://dummyimage.com/250x100.png/dddddd/000000",
+    "stock": 10
+  },
+  {
+    "id": 28,
+    "titulo": "Asus",
+    "descripcion": "Nokia",
+    "categoria": "Samsung",
+    "precio": 99.8,
+    "imagen": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "stock": 10
+  },
+  {
+    "id": 29,
+    "titulo": "Allview",
+    "descripcion": "Wiko",
+    "categoria": "Kyocera",
+    "precio": 63.97,
+    "imagen": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "stock": 10
+  },
+  {
+    "id": 30,
+    "titulo": "Huawei",
+    "descripcion": "Panasonic",
+    "categoria": "QMobile",
+    "precio": 4.86,
+    "imagen": "http://dummyimage.com/250x100.png/cc0000/ffffff",
+    "stock": 10
+  }
+]
